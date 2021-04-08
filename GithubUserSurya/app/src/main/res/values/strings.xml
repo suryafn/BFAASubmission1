@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUserSurya</string>
+    <string name="user_name">User Name</string>
+    <string name="detail">Detail</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="nama_pengguna">Nama Pengguna:</string>
+    <string name="username">Username:</string>
+    <string name="followerstxt">Followers:</string>
+    <string name="followingtxt">Following:</string>
+    <string name="companytxt">Perusahaan:</string>
+    <string name="locationtxt">Lokasi:</string>
+    <string name="location">location</string>
+    <string name="repositorytxt">Repository:</string>
+    <string name="repository">repository</string>
+</resources>
